@@ -1,8 +1,11 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Summer 2022
+## Arya Shahvar
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Hapy to be here :) 
+
+![IMG](https://user-images.githubusercontent.com/71746459/170724863-65a7f935-3c82-450a-8d1f-1a089fabc28f.jpg)
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
