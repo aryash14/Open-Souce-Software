@@ -21,4 +21,14 @@ link to fork repository: https://github.com/aryash14/Spoon-Knife
 # Part 3:
 link to forked repo: https://github.com/aryash14/PullReq.git
 
+git diff HEAD~1;
+
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/71746459/171903067-d9d38a5a-42f7-46ff-8ffc-f811886c1d80.png">
+
+git tag -l:
+
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/71746459/171904670-0a5e55a4-216b-4811-aa29-307b56946513.png">
+
+link to common forked repo: https://github.com/aryash14/OSSProjectIdeas.git
+
+
