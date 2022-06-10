@@ -15,7 +15,11 @@ $$
 \end{vmatrix}
 $$
 
-
+Latex generating: 
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/71746459/173135192-5dbf3a5e-d3b6-4bfc-b65d-003a71e3a190.png">
+File was in 
+/Users/aryash/CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex/introduction.pdf
+I will upload the pdf in this folder!
 
 # Part 2
 TutorBase(Project I did):
@@ -90,6 +94,7 @@ First commit:
 04/05/2017    https://github.com/Bram-Hub/aris/commit/69945fedb2c523904d3d0def66b4d7dfab65de83
 Current Branches:
 Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Palette, proof_generate_solver, Disjunctive_syllogism
+![image](https://user-images.githubusercontent.com/71746459/173131905-13174114-8be3-4191-bc8d-56a4ffed2eea.png)
 
 
 
