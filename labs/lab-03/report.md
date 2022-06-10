@@ -27,6 +27,9 @@ the current branches: * master
   remotes/origin/meetingcard-fixes
   remotes/origin/saml-auth
   remotes/origin/tutorpfpics
+
+gource: 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/173105041-70a06be2-9a82-47b0-b069-70359d7b5a07.png">
   
 Clickbait Chrome Extension:
 https://github.com/kool814/clickbaitchromeextension
@@ -37,8 +40,7 @@ First Commit: 1-22-2019
 Latest Commit: 4-17-2019
 Current Branch: master
 
-gource: 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/173105041-70a06be2-9a82-47b0-b069-70359d7b5a07.png">
+
 
 
 Catan-AI project
