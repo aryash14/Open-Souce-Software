@@ -58,7 +58,7 @@ First Commit: 1-22-2019
 Latest Commit: 4-17-2019
 Current Branch: master
 
-
+![image](https://user-images.githubusercontent.com/71746459/173098433-a8d2c8b4-9475-4655-812d-5afb31d1aa1a.png)
 
 
 Catan-AI project
@@ -75,7 +75,8 @@ Current branches:
         CatanReasearch
         Simple_Bot
         
-![image](https://user-images.githubusercontent.com/71746459/173098433-a8d2c8b4-9475-4655-812d-5afb31d1aa1a.png)
+
+![image](https://user-images.githubusercontent.com/71746459/173109412-345cfb29-b8ac-483b-802a-d4f3fc03264b.png)
 
 Aris:
 
