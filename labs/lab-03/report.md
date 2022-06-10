@@ -15,9 +15,12 @@ $$
 \end{vmatrix}
 $$
 
+
 Latex generating: 
+
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/71746459/173135192-5dbf3a5e-d3b6-4bfc-b65d-003a71e3a190.png">
-File was in 
+
+File was in :
 /Users/aryash/CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex/introduction.pdf
 I will upload the pdf in this folder!
 
