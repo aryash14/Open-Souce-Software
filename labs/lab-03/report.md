@@ -6,14 +6,18 @@ $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1+4\sqrt{1 + ...}}}}$.
 <img width="169" alt="image" src="https://user-images.githubusercontent.com/71746459/173108403-60d7c8cf-fb51-4588-932f-67c8fda88bb0.png">
 $\sqrt{2} ^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}$
 
-<img width="217" alt="image" src="https://user-images.githubusercontent.com/71746459/173109074-dd338788-dd6f-469f-a3af-c06bfc4a8fbb.png">
-$$
-\begin{vmatrix}
-1 & 1 & 1 & 1 \\
--1 & -1 & 1 & 1\\
-1 & -1 & -1 & 1 \\
-\end{vmatrix}
-$$
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/71746459/173461385-80852d3d-7b2f-483a-9cff-8be78915132e.png">
+
+ $$ 
+ \begin{vmatrix} 
+ 1 & 1 & 1 & 1 \\ 
+ -1 & 1 & -1 & 1 \\
+-1 & -1 & 1 & 1\\ 
+1 & -1 & -1 & 1 \\            
+ \end{vmatrix} $$
+ 
+
+
 
 
 Latex generating: 
