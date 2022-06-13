@@ -8,12 +8,16 @@ $\sqrt{2} ^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}$
 
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/71746459/173461385-80852d3d-7b2f-483a-9cff-8be78915132e.png">
 
- $$ \begin{vmatrix} 
- 1 & 1 & 1 & 1 \\ 
- -1 & 1 & -1 & 1 \\
--1 & -1 & 1 & 1\\ 
-1 & -1 & -1 & 1 \\            
-\end{vmatrix} $$
+$ \begin{vmatrix} 
+
+1 & 1 & 1 & 1 \\\\
+
+-1 & 1 & -1 & 1 \\\\ 
+
+-1 & -1 & 1 & 1\\\\
+
+1 & -1 & -1 & 1 \\\\           
+\end{vmatrix} $
  
 
 
