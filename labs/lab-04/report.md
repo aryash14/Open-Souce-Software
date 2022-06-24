@@ -18,19 +18,7 @@ https://github.com/aryash14/check-7
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rpi-alpaca/alpaca | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
-
-Website | License Present | License
----------|:----------|:-------
 https://github.com/adamprimak/brewme | Yes |  Apache-2.0 license https://en.wikipedia.org/wiki/Apache_License
-
-Website | License Present | License
----------|:----------|:-------
 https://github.com/premog2/Findme | No | -
-
-Website | License Present | License
----------|:----------|:-------
 https://github.com/rpitv/glimpse-ui | Yes | GPL-3.0 license https://en.wikipedia.org/wiki/GNU_General_Public_License
-
-Website | License Present | License
----------|:----------|:-------
 https://github.com/ishuttletracker/ishuttletracker | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
