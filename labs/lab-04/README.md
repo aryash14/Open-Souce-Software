@@ -1,5 +1,4 @@
-# Open-Source-Software
-Open Source Software
+# Open-Source-Software Lab 4
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
