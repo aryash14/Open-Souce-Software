@@ -40,4 +40,15 @@ After changing LESS to GREATER in CMakeCopyRight.cmake this it the output:
 
 # Check 4:
 
+screenshots of your pull request after the actions execute successfully:
+
+<img width="1017" alt="image" src="https://user-images.githubusercontent.com/71746459/179297129-98b4d0df-81b6-4ba3-af92-eff88cf8bc50.png">
+
+screenshots of one successful push execution:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/179297309-c729e452-3b3c-4f2f-91ff-5b82ca5fd2db.png">
+
+link to the repo:
+
+https://github.com/aryash14/CI_test_check4
 
