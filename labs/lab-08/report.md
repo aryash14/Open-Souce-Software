@@ -40,3 +40,4 @@ After changing LESS to GREATER in CMakeCopyRight.cmake this it the output:
 
 # Check 4:
 
+
