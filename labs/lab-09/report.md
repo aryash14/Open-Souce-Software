@@ -62,3 +62,23 @@ docker images
 
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/71746459/180477498-9eab8f38-3d97-485d-8038-343cd02e0c81.png">
 
+run docker-compose
+
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/71746459/180479233-e0aff231-a996-49ba-887c-9d8eb4dced44.png">
+
+Current list of messages:
+
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/71746459/180479440-41576262-6384-4b22-99ce-f5c19d845a30.png">
+
+Creating new messages:
+
+<img width="1373" alt="image" src="https://user-images.githubusercontent.com/71746459/180484476-f1693c64-f473-4284-9a02-37c25e0795bf.png">
+
+Modigy a message:
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/71746459/180484787-0f9e365f-362c-49df-b190-f481586632e4.png">
+
+Delete a message:
+
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/71746459/180484947-19831783-f74d-4743-93d1-80aafaf0c38b.png">
+
