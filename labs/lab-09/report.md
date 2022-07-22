@@ -42,3 +42,23 @@ docker images
 
 # Example 3
 
+building the docker file
+
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/71746459/180474120-d32fb6e9-de9e-494b-8180-e8c29382878e.png">
+
+running the container on port 5001 since 5000 was taken on my machine
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/180474819-2e09c3f0-f652-429f-b026-e7de3c1d6507.png">
+
+# Example 4
+
+Creating the docker file
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/71746459/180477170-b16521c0-2b8e-497e-99f9-1b95849c1230.png">
+
+Create docker image
+
+docker images
+
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/71746459/180477498-9eab8f38-3d97-485d-8038-343cd02e0c81.png">
+
