@@ -67,7 +67,12 @@ Replication:
 
 # Checkpoint 4
 
+1. Selector
+
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/71746459/181803872-c03d3197-dd9b-4646-b141-32b8c2790cfb.png">
 
 
+2. Start with L
 
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/71746459/181806003-5a12ab15-6ceb-4c62-95f7-376ad579d240.png">
 
