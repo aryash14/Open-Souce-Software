@@ -42,5 +42,32 @@ Putting in a document and making sure it is in the database:
 
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/71746459/181792150-1b8b4373-f502-4a15-9717-5c19286b3b78.png">
 
+revision:
+
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/71746459/181793579-c18653cd-9070-4ae8-a3ba-8c0cf4aee857.png">
+
+HTTPS 201:
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/71746459/181793851-07768270-295b-40e1-b85d-6db2cb1a5497.png">
+
+adding attachment:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/181796148-a32d1fcd-5b11-4faa-8ff6-ad59f35dc004.png">
+
+making sure the attachment is added:
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/71746459/181796564-1679b9a2-eff9-4e11-93ac-b0f8fa40260d.png">
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/71746459/181796757-3fcce870-2ffd-42f3-b7e2-5b238064822e.png">
+
+Replication:
+
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/71746459/181801116-47a9af78-534f-45a1-8345-beb5ded61689.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71746459/181801385-396d0b6b-5d6f-43b4-a06d-ad19d238116b.png">
+
+# Checkpoint 4
+
+
+
 
 
