@@ -76,3 +76,11 @@ Replication:
 
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/71746459/181806003-5a12ab15-6ceb-4c62-95f7-376ad579d240.png">
 
+3. Setting the index
+
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/71746459/181816179-48845ddf-613e-4773-8493-2332a0e5d71a.png">
+
+4. Rerun title
+
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/71746459/181816358-35fa0fa7-53b4-433b-9153-910aa56ee3f0.png">
+
