@@ -7,6 +7,7 @@ justified and I think developers have the right to know if their code was used i
 accurate then I think it will help the community but if it's not it will be the opposite the community. And in the end I don't think the benefit from this
 model will justify the fact that this code was written by other developers and they get no credit in the end for their work.
 
+Citation: https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/
 
 # Checkpoint 1
 
