@@ -1,3 +1,13 @@
+# Chapter 0
+
+I looked in to copilot. The dataset used to train this model was copyleft software. So it was written by other developers and apparenlty GitHub has refused\
+to release to list of repositories that were used in the training process. "Friedman himself, as well as Microsoft and GitHub’s other executives and\
+lawyers, have ignored Software Freedom Conservancy’s requests for clarification and/or evidence supporting these statements." I don't think this is\
+justified and I think developers have the right to know if their code was used in the process. I don't know how accurate this model is but if it fairly\
+accurate then I think it will help the community but if it's not it will be the opposite the community. And in the end I don't think the benefit from this\
+model will justify the fact that this code was written by other developers and they get no credit in the end for their work.\
+
+
 # Checkpoint 1
 
 <img width="568" alt="image" src="https://user-images.githubusercontent.com/71746459/181785790-5fcd209e-8964-4242-beb5-1ef7b8cfd7f3.png">
