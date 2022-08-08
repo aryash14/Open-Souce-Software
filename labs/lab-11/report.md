@@ -17,6 +17,8 @@ image 1:
 [[6.8437421e-01 2.8475200e-12 2.5633722e-07 9.6590202e-07 5.9132144e-09
   9.3525881e-13 3.1562394e-01 8.1784129e-20 5.4555721e-07 5.5100396e-13]]
   
+ <img width="466" alt="image" src="https://user-images.githubusercontent.com/71746459/183328619-f230e5cd-6012-4d56-b2e0-fbc96520ca40.png">
+
 image 2:
 
 <img src="coat.jpg" alt="tshirt" width="200"/>
